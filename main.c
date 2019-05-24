@@ -1,5 +1,5 @@
 /*
- * gcc -Wall -lwiringPi -o "%e" "%f"
+ * gcc -Wall -lwiringPi -o lora main.c
  *
  * */
 
