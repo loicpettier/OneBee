@@ -22,7 +22,7 @@ Pour cela on utilisera une détection par video grace a une caméra placée sur 
 
 LIGNE DE COMPILATION :
 
- g++ -Wall -o camera camera.c -lrt ` pkg-config --cflags --libs opencv `
+ g++ -Wall -o camera Camera.c -lrt ` pkg-config --cflags --libs opencv `
  
  ATTENTION : 
 
