@@ -13,9 +13,10 @@
                (%%%)
                  !
 				 
-Version : 1.0
-Date : 18/03/2019
+Version : 1.1
+Date : 24/05/2019
 Createur : Jean-Camille Lebreton
+Modification : Loïc Pettier
 Description : Ce code a pour vocation de compter le mouvemeent des abeilles en temps réel
 Pour cela on utilisera une détection par video grace a une caméra placée sur le module
 
